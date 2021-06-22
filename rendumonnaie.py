@@ -22,5 +22,5 @@ for i in range(1,max):
         
 
 print(etape)
-moyenneEtape = etape / max
+moyenneEtape = etape / (max-1)
 print(moyenneEtape)
